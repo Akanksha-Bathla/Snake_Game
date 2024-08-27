@@ -15,7 +15,7 @@ This is a traditional Snake game, a nostalgic recreation of the classic version 
 ### How to Run:
 
 1. Clone this repository:
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Akanksha-Bathla/snake-game.git
 
 2. Navigate to the project directory:
 cd snake-game
