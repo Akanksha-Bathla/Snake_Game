@@ -14,14 +14,14 @@ This is a traditional Snake game, a nostalgic recreation of the classic version 
 
 ### How to Run:
 
-1. Clone this repository:
-git clone https://github.com/Akanksha-Bathla/Snake_Game.git
+1. Clone this repository: <br/>
+`git clone https://github.com/Akanksha-Bathla/Snake_Game.git`
 
-2. Navigate to the project directory:
-cd snake-game
+2. Navigate to the project directory:<br/>
+`cd snake-game`
 
-3. Run the game:
-python snake_game.py
+3. Run the game:<br/>
+`python snake_game.py`
 
 
 Relive the classic Snake experience and see how long you can last!
